@@ -51,35 +51,35 @@ Postcondiciones: Promedio de tiempos Calculado
 *************************************************************************************************************
  
  # Pseudocodigo
- Caracteres: nombres [30], numeros[30], categorias[30]
-real: tiempo1[50], tiempo2[50], tiempo3[50]
-caracteres: nombre, numero, categoria
-Entero: numpilotos, i
-real: tiempo1, tiempo2, tiempo3, promedio <- 0
-imprimir: "Digite el numero de ciclistas: "
-asignar: numpilotos
-para i=0 hasta numpilotos - 1, 1
-imprimir: 'Digite el nombre del piloto: '
-asignar: nombre
-Imprimir: “Digite el numero del piloto:”
-Asignar: numero
-Imprimir: ‘Digite la categoria del piloto:’
-Asignar: categoria
-Imprimir: ‘Digite el tiempo 1 del piloto:’
-Asignar: tiempo1
-Imprimir: ‘Digite el tiempo 2 del piloto:’
-Asignar: tiempo2
-Imprimir: ‘Digite el tiempo 3 del piloto’
-Asignar: tiempo3
-nombres[i] <- nombre
-numeros[i] <- numeros
-categorias [i] <- categoria
-tiempouno[i] <- tiempo1
-tiempodos[i] <- tiempo2
-tiempotres[i] <- tiempo3
-finPara
-Para i=0 hasta numpilotos -1, 1
-promedio <-
+ Caracteres: nombres [30], numeros[30], categorias[30]  
+real: tiempo1[50], tiempo2[50], tiempo3[50]  
+caracteres: nombre, numero, categoria  
+Entero: numpilotos, i  
+real: tiempo1, tiempo2, tiempo3, promedio <- 0  
+imprimir: "Digite el numero de ciclistas: "  
+asignar: numpilotos  
+para i=0 hasta numpilotos - 1, 1  
+imprimir: 'Digite el nombre del piloto: '  
+asignar: nombre  
+Imprimir: “Digite el numero del piloto:”  
+Asignar: numero  
+Imprimir: ‘Digite la categoria del piloto:’  
+Asignar: categoria  
+Imprimir: ‘Digite el tiempo 1 del piloto:’  
+Asignar: tiempo1  
+Imprimir: ‘Digite el tiempo 2 del piloto:’  
+Asignar: tiempo2  
+Imprimir: ‘Digite el tiempo 3 del piloto’  
+Asignar: tiempo3  
+nombres[i] <- nombre  
+numeros[i] <- numeros  
+categorias [i] <- categoria  
+tiempouno[i] <- tiempo1  
+tiempodos[i] <- tiempo2  
+tiempotres[i] <- tiempo3  
+finPara  
+Para i=0 hasta numpilotos -1, 1  
+promedio <-0  
 **************************************************************************************************************************
  # Codigo Estructurado java
  ```
