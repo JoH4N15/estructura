@@ -1,23 +1,5 @@
 # Historia de usuario
-Soy el  administrador del Autódromo de Tocancipá.
-
-Requiero documentar y analizar la información de los tiempos que se hacen por vuelta en una carrera, para calcular el tiempo de vuelta por categorías 
-
- 
-ESCENARIO
- 
-
-Escenario 1: 
-
-Given que debo Ingresar el tiempo por vuelta  de todos los pilotos
-
-verificar que los tiempos coincidan con el cronometro oficial, que los datos tanto del piloto y vehículo sean correctos   
-
-When Seleccione la opción de calcular el promedio por vuelta
-
- 
-
-Then el programa debe poder guardar y actualizar la información de cada uno de los pilotos como el nombre, edad, categoría y su promedio de vuelta 
+<p align="left">  <img src="https://i.ibb.co/yQxJ7NC/uno.png">  </p>
 
 ***************************************************************************************************************************
 
