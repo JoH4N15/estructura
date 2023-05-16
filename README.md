@@ -19,10 +19,10 @@ When Seleccione la opción de calcular el promedio por vuelta
 
 Then el programa debe poder guardar y actualizar la información de cada uno de los pilotos como el nombre, edad, categoría y su promedio de vuelta 
 *****************************************************************************************************************************************
-#Caso de usuario
+# Caso de usuario
 <p align="left">  <img src="https://i.ibb.co/1JGvSTg/img.png">  </p>
 *****************************************************************************************************************************************
-#Descripcion Caso de uso 
+# Descripcion Caso de uso 
 
 Nombre: Calcular el tiempo por vuelta en moto en el circuito
 Actores: Administrador de pista
@@ -39,7 +39,7 @@ Postcondiciones: Promedio de tiempos Calculado
 #Diagrama de flujo:
 <p align="left">  <"https://i.ibb.co/7GZgtyQ/ddfjh.png">  </p>
 *****************************************************************************************************************************************
- #Pseudocodigo
+ # Pseudocodigo
  Caracteres: nombres [30], numeros[30], categorias[30]
 real: tiempo1[50], tiempo2[50], tiempo3[50]
 caracteres: nombre, numero, categoria
@@ -119,7 +119,7 @@ public class PilotoEstr
 }
  ```
 *****************************************************************************************************************************************
- #Codigo orientado a objetos
+ # Codigo orientado a objetos
  ```
  public class PilotoPOO
 {
