@@ -18,10 +18,18 @@ When Seleccione la opción de calcular el promedio por vuelta
  
 
 Then el programa debe poder guardar y actualizar la información de cada uno de los pilotos como el nombre, edad, categoría y su promedio de vuelta 
+
 ***************************************************************************************************************************
+
+
 # Caso de usuario
+
 <p align="left">  <img src="https://i.ibb.co/1JGvSTg/img.png">  </p>
+
+
 ***********************************************************************************************************************
+
+
 # Descripcion Caso de uso 
 
 Nombre: Calcular el tiempo por vuelta en moto en el circuito
