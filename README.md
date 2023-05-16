@@ -18,10 +18,10 @@ When Seleccione la opción de calcular el promedio por vuelta
  
 
 Then el programa debe poder guardar y actualizar la información de cada uno de los pilotos como el nombre, edad, categoría y su promedio de vuelta 
-*****************************************************************************************************************************************
+***************************************************************************************************************************
 # Caso de usuario
 <p align="left">  <img src="https://i.ibb.co/1JGvSTg/img.png">  </p>
-*****************************************************************************************************************************************
+***********************************************************************************************************************
 # Descripcion Caso de uso 
 
 Nombre: Calcular el tiempo por vuelta en moto en el circuito
@@ -35,10 +35,10 @@ Se calcula el promedio a partir de:
 ( ∑(tiempo 1, tiempo 2, tiempo 3) / tiempo total) / Cantidad pilotos
 Se Muestra el proemedio de los pilotos de su categoria,
 Postcondiciones: Promedio de tiempos Calculado
-*****************************************************************************************************************************************
+**********************************************************************************************************************
 #Diagrama de flujo:
 <p align="left">  <"https://i.ibb.co/7GZgtyQ/ddfjh.png">  </p>
-*****************************************************************************************************************************************
+*************************************************************************************************************
  # Pseudocodigo
  Caracteres: nombres [30], numeros[30], categorias[30]
 real: tiempo1[50], tiempo2[50], tiempo3[50]
@@ -69,8 +69,8 @@ tiempotres[i] <- tiempo3
 finPara
 Para i=0 hasta numpilotos -1, 1
 promedio <-
-*****************************************************************************************************************************************
- #Codigo Estructurado java
+**************************************************************************************************************************
+ # Codigo Estructurado java
  ```
  import java.util.Scanner;
 public class PilotoEstr
@@ -118,7 +118,7 @@ public class PilotoEstr
     }
 }
  ```
-*****************************************************************************************************************************************
+**************************************************************************************************************
  # Codigo orientado a objetos
  ```
  public class PilotoPOO
